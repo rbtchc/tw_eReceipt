@@ -31,7 +31,7 @@ Sample output format:
         ],
         "metadata": {
             "card_name": "<name of the eletronic mean>",
-            "total_amount": 40.0,
+            "total_amount": <summed amount of item 1 and 2>, 
             "vat_no": <value added tax number of the business>,
             "store_name": "<store name in chinese>",
             "valid": true,
